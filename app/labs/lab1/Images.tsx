@@ -34,7 +34,7 @@ export default function Images() {
       <img
         id="wd-your-image"
         width="250px"
-        alt="Portrait of Sudaiv Shetty"
+        alt="Portrait of Sudaiv Shailesh Shetty"
         src="/images/my-picture.jpg"
       />
     </div>

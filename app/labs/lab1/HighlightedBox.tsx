@@ -68,7 +68,7 @@ export default function HighlightedBoxLab() {
         borderWidth={4}
         borderRadius={0}
       >
-        <h4>Sudaiv Shetty</h4>
+        <h4>Sudaiv Shailesh Shetty</h4>
         <ul>
           <li>Learn Next.js</li>
           <li>Build a backend with Node.js and MongoDB</li>

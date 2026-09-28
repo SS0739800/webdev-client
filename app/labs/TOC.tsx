@@ -4,7 +4,7 @@ export default function TOC() {
   return (
     <div id="wd-toc">
       <p>
-        <strong>Sudaiv Shetty</strong>
+        <strong>Sudaiv Shailesh Shetty</strong>
       </p>
       <ul>
         <li>

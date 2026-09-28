@@ -33,7 +33,7 @@ export default function HeadingTags() {
       </div>
 
       <div id="wd-your-heading">
-        <h4>Sudaiv Shetty</h4>
+        <h4>Sudaiv Shailesh Shetty</h4>
         I study computer science at Northeastern and I am taking this course
         to learn how to build{" "}
         <span id="wd-your-span">full-stack</span> web apps from scratch.
